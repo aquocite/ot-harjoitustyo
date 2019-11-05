@@ -4,7 +4,7 @@ Tämä on kurssin *ohjelmistotekniikka* **harjoitustyöhön** liittyvä tiedosto
 
 ## Tehtävät
 
-### Viikko 3
+### Viikko 1
 
 [gitlog.txt](https://github.com/aquocite/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
